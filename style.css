@@ -1,0 +1,45 @@
+/*
+I have my css separated to control different aspects of what is displayed.
+*/
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #c0afaf;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+p {
+  font-family: "Lucida Handwriting", "Times New Roman", "ariel";
+  font-size: 16px;
+  color: black;
+}
+
+li {
+  font-family: "Lucida Handwriting", "Times New Roman", "ariel";
+  font-size: 15px; 
+  
+}
+
+h1, h2, h3 {
+  font-family: "Lucida Handwriting", "Times New Roman", "ariel";
+  color: #3f3f4b;
+  margin: 10;
+  padding: 10;
+}
+
+hr {
+  height: 500;
+  width: 500;
+  color: black;
+}
+
+
+
+
+
