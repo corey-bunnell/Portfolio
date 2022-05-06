@@ -10,21 +10,34 @@ html, body {
   text-align: center;
 }
 
+/*
+I have my footer text centered. Didn't want to do to much styling to keep a classic look.
+*/
+
 footer {
   text-align: center;
 }
+
+/*
+I have my paragraphs styled here. Went with back up options for the font just in case "Lucida Handwriting" wasn't supported. Increased the font size to fix contrast issues.
+*/
 
 p {
   font-family: "Lucida Handwriting", "Times New Roman", "ariel";
   font-size: 20px;
   color: black;
 }
+/*
+I have my list styled here. Went with the same font styles as before. Kept them slightly smaller then my paragraph text.
+*/
 
 li {
   font-family: "Lucida Handwriting", "Times New Roman", "ariel";
   font-size: 18px; 
-  
 }
+/*
+I have all my heading tags together and styled the same. I kept an even margin and padding on them.
+*/
 
 h1, h2, h3 {
   font-family: "Lucida Handwriting", "Times New Roman", "ariel";
@@ -38,6 +51,10 @@ hr {
   width: 500;
   color: black;
 }
+
+/*
+I have my anchor tags styled here. Went with a hover pseudo-class.
+*/
 
 a:hover {
   background: blue;
